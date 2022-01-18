@@ -1,7 +1,3 @@
-layout: page
-title: "Trustworthy Speech Processing"
-permalink: /
-
 ### About
 
 Given the ubiquity of Machine Learning (ML) systems and their relevance in daily lives, it is
@@ -32,3 +28,6 @@ emphasis of these techniques in speech based models, this special session will s
 collaboration across researchers experienced in trustworthy ML, speech as well as new entrants
 in this research area. We will also invite submissions from industrial organizations given the
 relevance of the topic in their setting.
+
+### Contact
+If you have any questions, please contact us at trustworthyspeechprocessing@gmail.com
