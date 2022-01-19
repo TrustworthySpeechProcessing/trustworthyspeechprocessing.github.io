@@ -10,6 +10,13 @@ Topics of interest cover a variety of papers centered on speech processing, incl
 - Discovery and defense against emerging privacy attacks
 - Trustworthy ML in applications of speech processing like ASR
 
+### Organizers
+- Anil Ramakrishna, Amazon Inc.
+- Shrikanth Narayanan, University of Southern California
+- Rahul Gupta, Amazon Inc.
+- Isabel Trancoso, University of Lisbon
+- Rita Singh, Carnegie Mellon University
+
 ### Call for papers
 Submissions for TSP will follow the same schedule and procedure as the main conference. To submit your papers, [click here](https://www.softconf.com/m/interspeech2022/).  
 
