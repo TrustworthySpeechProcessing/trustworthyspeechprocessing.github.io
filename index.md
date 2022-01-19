@@ -14,4 +14,4 @@ Topics of interest cover a variety of papers centered on speech processing, incl
 TBD
 
 ### Contact
-If you have any questions, please contact us at trustworthyspeechprocessing@gmail.com.
+If you have any questions, please contact us at trustworthyspeechproc@gmail.com.
