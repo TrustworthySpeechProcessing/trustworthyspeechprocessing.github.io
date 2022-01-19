@@ -8,6 +8,7 @@ Topics of interest cover a variety of papers centered on speech processing, incl
 - Quantifying & mitigating bias in speech processing
 - New datasets, frameworks and benchmarks for TSP
 - Discovery and defense against emerging privacy attacks
+- Trustworthy ML in applications of speech processing like ASR
 
 ### Call for papers
 Submissions for TSP will follow the same schedule and procedure as the main conference. To submit your papers, [click here](https://www.softconf.com/m/interspeech2022/).  
