@@ -1,13 +1,14 @@
 ### About
 
-Given the ubiquity of Machine Learning (ML) systems and their relevance in daily lives, it is important to ensure private and safe handling of data alongside equity in human experience. These considerations have gained considerable interest in recent times under the realm of Trustworthy ML. Speech processing in particular presents a unique set of challenges, given the rich information carried in linguistic and paralinguistic content including speaker trait, interaction and state characteristics. This special session on Trustworthy Speech Processing will serve to foster collaboration across researchers experienced in trustworthy ML, speech as well as new entrants in this research area. We will also invite submissions from industrial organizations given the relevance of the topic in their setting.
+Given the ubiquity of Machine Learning (ML) systems and their relevance in daily lives, it is important to ensure private and safe handling of data alongside equity in human experience. These considerations have gained considerable interest in recent times under the realm of Trustworthy ML. Speech processing in particular presents a unique set of challenges, given the rich information carried in linguistic and paralinguistic content including speaker trait, interaction and state characteristics. This special session on Trustworthy Speech Processing was created to bring together new and experienced researchers working on trustworthy ML and speech processing. We invite novel and relevant submissions from both academic and industrial research groups, showcasing advancements in theoretical, empirical as well as real-world design of trustworthy speech applications.
 
-Topics of interest cover a variety of speech centered considerations, including (but not limited to): 
+Topics of interest cover a variety of papers centered on speech processing, including (but not limited to): 
 - Differential privacy
-- Discovery and defense against emerging privacy attacks
+- Federated learning
+- Ethics in speech processing
 - Model interpretability
-- Federated Learning
-- Quantifying & mitigating bias in speech based models. 
+- Quantifying & mitigating bias
+- Discovery and defense against emerging privacy attacks
 
 ### Call for papers
 TBD
