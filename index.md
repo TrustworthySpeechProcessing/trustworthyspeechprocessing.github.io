@@ -2,6 +2,7 @@ Given the ubiquity of Machine Learning (ML) systems and their relevance in daily
 
 Topics of interest cover a variety of papers centered on speech processing, including (but not limited to): 
 - Differential privacy
+- Bias and Fairness
 - Federated learning
 - Ethics in speech processing
 - Model interpretability
