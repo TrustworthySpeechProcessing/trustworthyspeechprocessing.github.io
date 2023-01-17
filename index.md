@@ -15,16 +15,17 @@ Topics of interest cover a variety of papers centered on speech processing, incl
 - Shrikanth Narayanan, University of Southern California
 - Rahul Gupta, Amazon Inc.
 - Isabel Trancoso, University of Lisbon
-- Rita Singh, Carnegie Mellon University
+- Bhiksha Raj, Carnegie Mellon University
+- Theodora Chaspari, Texas A&M University
 
-### Call for papers
-Submissions for TSP will follow the same schedule and procedure as the main conference. To submit your papers, [click here](https://www.softconf.com/m/interspeech2022/) (select option #14.13 as the submission topic for your paper).   
+[//]: # ### Call for papers
+[//]: # Submissions for TSP will follow the same schedule and procedure as the main conference. To submit your papers, [click here](https://www.softconf.com/m/interspeech2023/) (select option #14.13 as the submission topic for your paper).   
 
 ### Important Dates
-- Paper submission deadline: March 21, 2022, 23:59, Anywhere on Earth. 
-- Paper update deadline: March 28, 2022, 23:59, Anywhere on Earth.
-- Author notification: June 13, 2022.
-- Interspeech conference dates: September 18 to 22, 2022.
+- Paper submission deadline: March 1, 2023, 23:59, Anywhere on Earth. 
+- Paper update deadline: March 8, 2023, 23:59, Anywhere on Earth.
+- Author notification: May 17, 2023.
+- Interspeech conference dates: August 21 to 24, 2023.
 
 ### Contact
 If you have any questions, please contact us at trustworthyspeechproc@gmail.com.
