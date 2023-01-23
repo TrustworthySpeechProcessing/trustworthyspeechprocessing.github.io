@@ -19,8 +19,8 @@ Topics of interest cover a variety of papers centered on speech processing, incl
 - Bhiksha Raj, Carnegie Mellon University
 - Theodora Chaspari, Texas A&M University
 
-[//]: # ### Call for papers
-[//]: # Submissions for TSP will follow the same schedule and procedure as the main conference. To submit your papers, [click here](https://www.softconf.com/m/interspeech2023/) (select option #14.13 as the submission topic for your paper).   
+### Call for papers
+Submissions for TSP will follow the same schedule and procedure as the main conference. To submit your papers, [click here](https://cmt3.research.microsoft.com/INTERSPEECH2023) (select option #14.09 as the submission topic for your paper).   
 
 ### Important Dates
 - Paper submission deadline: March 1, 2023, 23:59, Anywhere on Earth. 
