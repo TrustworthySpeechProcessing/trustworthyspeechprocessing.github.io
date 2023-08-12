@@ -1,2 +1,2 @@
 # trustworthyspeechprocessing.github.io
-Official website for the special session on Trustworthy Speech Processing at Interspeech 2023
+Official website for the workshop on Trustworthy Speech Processing at ICASSP 2024
