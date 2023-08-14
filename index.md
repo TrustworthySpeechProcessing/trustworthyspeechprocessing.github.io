@@ -1,6 +1,7 @@
-Given the ubiquity of Machine Learning (ML) systems and their relevance in daily lives, it is important to ensure private and safe handling of data alongside equity in human experience. These considerations have gained considerable interest in recent times under the realm of Trustworthy ML. Speech processing in particular presents a unique set of challenges, given the rich information carried in linguistic and paralinguistic content including speaker trait, interaction and state characteristics. This special session on Trustworthy Speech Processing (TSP) was created to bring together new and experienced researchers working on trustworthy ML and speech processing. We invite novel and relevant submissions from both academic and industrial research groups showcasing theoretical and empirical advancements in TSP.
+Given the ubiquity of Machine Learning (ML) systems and their relevance in daily lives, it is important to ensure private and safe handling of data alongside equity in human experience. These considerations have gained considerable interest in recent times under the realm of Trustworthy ML. Speech processing in particular presents a unique set of challenges, given the rich information carried in linguistic and paralinguistic content including speaker trait, interaction and state characteristics including health status. In this workshop on Trustworthy Speech Processing (TSP), we aim to bring together new and experienced researchers working on trustworthy ML and speech processing. We invite novel and relevant submissions from both academic and industrial research groups showcasing theoretical and empirical advancements in TSP.
 
-Topics of interest cover a variety of papers centered on speech processing, including (but not limited to): 
+Topics of interest cover a variety of papers centered on speech processing, including (but not
+limited to):
 - Differential privacy
 - Bias and Fairness
 - Federated learning
@@ -20,13 +21,13 @@ Topics of interest cover a variety of papers centered on speech processing, incl
 - Theodora Chaspari, Texas A&M University
 
 ### Call for papers
-Submissions for TSP will follow the same schedule and procedure as the main conference. To submit your papers, [click here](https://cmt3.research.microsoft.com/INTERSPEECH2023) (select option #14.09 as the submission topic for your paper).   
+TBD  
 
 ### Important Dates
-- Paper submission deadline: March 1, 2023, 23:59, Anywhere on Earth. 
-- Paper update deadline: March 8, 2023, 23:59, Anywhere on Earth.
-- Author notification: May 17, 2023.
-- Interspeech conference dates: August 21 to 24, 2023.
+- Paper submission deadline: TBD. 
+- Paper update deadline: TBD.
+- Author notification: TBD.
+- Workshop date August TBD.
 
 ### Contact
 If you have any questions, please contact us at trustworthyspeechproc@gmail.com.
