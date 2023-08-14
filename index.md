@@ -21,13 +21,15 @@ limited to):
 - Theodora Chaspari, Texas A&M University
 
 ### Call for papers
-TBD  
+We invite novel and unpublished research publications (negative results are welcome too) as well as position papers from any topic in Trustworthy Speech Processing (including ones listed above). Submissions should follow the official [ICASSP template](https://cmsworkshops.com/ICASSP2024/papers/paper_kit.php) and include a maximum of 4 pages of technical content followed by references. However, you are welcome to include supplementary material of any length after references.
+
+Submission are managed via OpenReview, please submit your papers [here](https://openreview.net/group?id=ICASSP/2024/Workshop/TSP).
 
 ### Important Dates
-- Paper submission deadline: TBD. 
-- Paper update deadline: TBD.
-- Author notification: TBD.
-- Workshop date August TBD.
+- Paper submission deadline: January 5th, 2024, AoE. 
+- Author notification: February 15th, 2024, AoE.
+- Camera ready submission deadline: March 1st, 2024, AoE.
+- Workshop date: TBD.
 
 ### Contact
 If you have any questions, please contact us at trustworthyspeechproc@gmail.com.
