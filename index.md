@@ -23,10 +23,14 @@ limited to):
 ### Call for papers
 We invite novel and unpublished research publications (negative results are welcome too) as well as position papers from any topic in Trustworthy Speech Processing (including ones listed above). Submissions should follow the official [ICASSP template](https://cmsworkshops.com/ICASSP2024/papers/paper_kit.php) and include a maximum of 4 pages of technical content followed by references. However, you are welcome to include supplementary material of any length after references.
 
-Submission are managed via OpenReview, please submit your papers [here](https://openreview.net/group?id=ICASSP/2024/Workshop/TSP).
+Submissions are managed via OpenReview, please submit your papers [here](https://openreview.net/group?id=ICASSP/2024/Workshop/TSP). Authors have an option to publish their papers in IEEE Xplore (archival mode); if you wish to do this, please submit before January 20th. 
+
+We will also support hybrid presentations for authors who are not able to attend the workshop in person. 
 
 ### Important Dates
-- Paper submission deadline: January 5th, 2024, AoE. 
+- Paper submission deadline:
+  - January 20th, 2024, AoE (To be considered for archival on IEEE Xplore).
+  - February 20th, 2023 AoE (non-archival papers).
 - Author notification: February 15th, 2024, AoE.
 - Camera ready submission deadline: March 1st, 2024, AoE.
 - Workshop date: TBD.
