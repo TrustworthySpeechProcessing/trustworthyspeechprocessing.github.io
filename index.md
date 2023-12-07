@@ -31,8 +31,7 @@ We will also support hybrid presentations for authors who are not able to attend
 - Paper submission deadline:
   - January 20th, 2024, AoE (to be considered for archival on IEEE Xplore).
   - February 20th, 2023 AoE (non-archival papers).
-- Author notification: February 15th, 2024, AoE.
-- Camera ready submission deadline: March 1st, 2024, AoE.
+- Author notification: Two weeks after each deadline above.
 - Workshop date: TBD.
 
 ### Contact
