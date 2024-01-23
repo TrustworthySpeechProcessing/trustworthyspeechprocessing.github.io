@@ -29,7 +29,7 @@ We will also support hybrid presentations for authors who are not able to attend
 
 ### Important Dates
 - Paper submission deadline:
-  - January 20th, 2024, AoE (to be considered for archival on IEEE Xplore).
+  - ~~January 20th~~ January 27th, 2024, AoE (to be considered for archival on IEEE Xplore).
   - February 20th, 2024, AoE (non-archival papers).
 - Author notification: Two weeks after each deadline above.
 - Workshop date: April 15th, 2024 from 2:00 PM to 5:30 PM KST (Room AB203).
