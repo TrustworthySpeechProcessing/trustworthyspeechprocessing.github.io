@@ -15,12 +15,12 @@ limited to):
 ### Accepted Papers
 Following papers were accepted for oral presentation at the workshop (ordered alphabetically):
 
-- ADVERSARIAL SPEECH FOR VOICE PRIVACY PROTECTION FROM PERSONALIZED SPEECH GENERATION. _Shihao Chen, Liping Chen, Jie Zhang, KongAik Lee, Zhenhua Ling, Lirong Dai_.
+- Adversarial speech for voice privacy protection from personalized speech generation. _Shihao Chen, Liping Chen, Jie Zhang, KongAik Lee, Zhenhua Ling, Lirong Dai_.
 - Characterizing the temporal dynamics of universal speech representations for generalizable deepfake detection. _Yi Zhu, Saurabh Powar, Tiago Falk_.
-- LCANETS++: ROBUST AUDIO CLASSIFICATION USING MULTI-LAYER NEURAL NETWORKS WITH LATERAL COMPETITION. _Sayanton V. Dibbo, Juston Moore, Garrett T. Kenyon, Michael Teti_.
+- LCANETS++: Robust audio classification using multi-layer neural networks with lateral competition. _Sayanton V. Dibbo, Juston Moore, Garrett T. Kenyon, Michael Teti_.
 - Improving Membership Inference in ASR Model Auditing with Loss-based Features. _Francisco Teixeira, Karla Pizzi, Raphael Olivier, Alberto Abad, Bhiksha Raj, Isabel Trancoso_.
 - Leveraging Confidence Models for Identifying Challenging Data Subgroups in Speech Models. _Alkis Koudounas, Eliana Pastor, Vittorio Mazzia, Manuel Giollo, Thomas Gueudre, Elisa Reale, Giuseppe Attanasio, Luca Cagliero, Sandro Cumani, Luca de Alfaro, Elena Baralis, Daniele Amberti_.
-- MULTI-MODAL APPROACHES FOR IMPROVING THE ROBUSTNESS OF AUDIO-BASED COVID-19 DETECTION SYSTEMS. _Drew Grant, Helena Hahn, Adebayo Eisape, Valerie Rennoll, James West_.
+- Multi-modal approaches for improving the robustness of audio-based COVID-19 detection systems. _Drew Grant, Helena Hahn, Adebayo Eisape, Valerie Rennoll, James West_.
 - Partial Federated Learning: Unlocking Non-Biometric Text Information Sharing for Federated Learning. _Tiantian Feng, Anil Ramakrishna, Jimit Majmudar, Charith Peris, Jixuan Wang, Clement Chung, Richard Zemel, Morteza Ziyadi_.
 
 ### Important Dates
