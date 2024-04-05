@@ -14,7 +14,7 @@ limited to):
 
 ### Schedule
 - 2:00 to 2:05 PM: Opening remarks
-- 2:05 to 2:55 PM: Invited talk by Dr. Jennifer Williams, University of Southamption, UK. 
+- 2:05 to 2:55 PM: Invited talk by Dr. Jennifer Williams, University of Southampton, UK. 
 - 2:55 to 3:55 PM: Paper presentations: 1
 - 3:55 to 4:05 PM: Break
 - 4:05 to 5:25 PM: Paper presentations: 2
