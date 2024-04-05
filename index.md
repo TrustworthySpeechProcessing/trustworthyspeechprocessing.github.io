@@ -12,13 +12,21 @@ limited to):
 - Discovery and defense against emerging privacy attacks
 - Trustworthy ML in applications of speech processing like ASR
 
+### Schedule
+- 2:00 to 2:05 PM: Opening remarks
+- 2:05 to 2:55 PM: Invited talk by Dr. Jennifer Williams, University of Southamption, UK. 
+- 2:55 to 3:55 PM: Paper presentations: 1
+- 3:55 to 4:05 PM: Break
+- 4:05 to 5:25 PM: Paper presentations: 2
+- 5:25 to 5:30 PM: Closing thoughts
+
 ### Accepted Papers
 Following papers were accepted for oral presentation at the workshop (ordered alphabetically):
 
 - Adversarial speech for voice privacy protection from personalized speech generation. _Shihao Chen, Liping Chen, Jie Zhang, KongAik Lee, Zhenhua Ling, Lirong Dai_.
 - Characterizing the temporal dynamics of universal speech representations for generalizable deepfake detection. _Yi Zhu, Saurabh Powar, Tiago Falk_.
-- LCANETS++: Robust audio classification using multi-layer neural networks with lateral competition. _Sayanton V. Dibbo, Juston Moore, Garrett T. Kenyon, Michael Teti_.
 - Improving Membership Inference in ASR Model Auditing with Loss-based Features. _Francisco Teixeira, Karla Pizzi, Raphael Olivier, Alberto Abad, Bhiksha Raj, Isabel Trancoso_.
+- LCANETS++: Robust audio classification using multi-layer neural networks with lateral competition. _Sayanton V. Dibbo, Juston Moore, Garrett T. Kenyon, Michael Teti_.
 - Leveraging Confidence Models for Identifying Challenging Data Subgroups in Speech Models. _Alkis Koudounas, Eliana Pastor, Vittorio Mazzia, Manuel Giollo, Thomas Gueudre, Elisa Reale, Giuseppe Attanasio, Luca Cagliero, Sandro Cumani, Luca de Alfaro, Elena Baralis, Daniele Amberti_.
 - Multi-modal approaches for improving the robustness of audio-based COVID-19 detection systems. _Drew Grant, Helena Hahn, Adebayo Eisape, Valerie Rennoll, James West_.
 - Partial Federated Learning: Unlocking Non-Biometric Text Information Sharing for Federated Learning. _Tiantian Feng, Anil Ramakrishna, Jimit Majmudar, Charith Peris, Jixuan Wang, Clement Chung, Richard Zemel, Morteza Ziyadi_.
