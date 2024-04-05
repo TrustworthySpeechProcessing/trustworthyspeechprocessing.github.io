@@ -12,6 +12,24 @@ limited to):
 - Discovery and defense against emerging privacy attacks
 - Trustworthy ML in applications of speech processing like ASR
 
+### Accepted Papers
+Following papers were accepted for oral presentation at the workshop (ordered alphabetically):
+
+- ADVERSARIAL SPEECH FOR VOICE PRIVACY PROTECTION FROM PERSONALIZED SPEECH GENERATION. _Shihao Chen, Liping Chen, Jie Zhang, KongAik Lee, Zhenhua Ling, Lirong Dai_.
+- Characterizing the temporal dynamics of universal speech representations for generalizable deepfake detection. _Yi Zhu, Saurabh Powar, Tiago Falk_.
+- LCANETS++: ROBUST AUDIO CLASSIFICATION USING MULTI-LAYER NEURAL NETWORKS WITH LATERAL COMPETITION. _Sayanton V. Dibbo, Juston Moore, Garrett T. Kenyon, Michael Teti_.
+- Improving Membership Inference in ASR Model Auditing with Loss-based Features. _Francisco Teixeira, Karla Pizzi, Raphael Olivier, Alberto Abad, Bhiksha Raj, Isabel Trancoso_.
+- Leveraging Confidence Models for Identifying Challenging Data Subgroups in Speech Models. _Alkis Koudounas, Eliana Pastor, Vittorio Mazzia, Manuel Giollo, Thomas Gueudre, Elisa Reale, Giuseppe Attanasio, Luca Cagliero, Sandro Cumani, Luca de Alfaro, Elena Baralis, Daniele Amberti_.
+- MULTI-MODAL APPROACHES FOR IMPROVING THE ROBUSTNESS OF AUDIO-BASED COVID-19 DETECTION SYSTEMS. _Drew Grant, Helena Hahn, Adebayo Eisape, Valerie Rennoll, James West_.
+- Partial Federated Learning: Unlocking Non-Biometric Text Information Sharing for Federated Learning. _Tiantian Feng, Anil Ramakrishna, Jimit Majmudar, Charith Peris, Jixuan Wang, Clement Chung, Richard Zemel, Morteza Ziyadi_.
+
+### Important Dates
+- Paper submission deadline:
+  - January 27th, 2024, AoE (to be considered for archival on IEEE Xplore).
+  - February 20th, 2024, AoE (non-archival papers).
+- Author notification: Two weeks after each deadline above.
+- Workshop date: April 15th, 2024 from 2:00 PM to 5:30 PM KST (Room AB203).
+
 ### Organizers
 - Anil Ramakrishna, Amazon Inc.
 - Shrikanth Narayanan, University of Southern California
@@ -19,20 +37,17 @@ limited to):
 - Isabel Trancoso, University of Lisbon
 - Bhiksha Raj, Carnegie Mellon University
 - Theodora Chaspari, Texas A&M University
+- Tiantian Feng, University of Southern California
+
+<!-- 
 
 ### Call for papers
 We invite novel and unpublished research publications (negative results are welcome too) as well as position papers from any topic in Trustworthy Speech Processing (including ones listed above). Submissions should follow the official [ICASSP template](https://cmsworkshops.com/ICASSP2024/papers/paper_kit.php) and include a maximum of 4 pages of technical content followed by references. However, you are welcome to include supplementary material of any length after references.
-
-Submissions are managed via OpenReview, please submit your papers [here](https://openreview.net/group?id=ICASSP/2024/Workshop/TSP). Authors have an option to publish their papers in IEEE Xplore (archival mode); if you wish to do this, please submit before January 20th. 
+Submissions are managed via OpenReview, please submit your papers [here](https://openreview.net/group?id=ICASSP/2024/Workshop/TSP). Authors have an option to publish their papers in IEEE Xplore (archival mode); if you wish to do this, please submit before January 20th.
 
 We will also support hybrid presentations for authors who are not able to attend the workshop in person. 
 
-### Important Dates
-- Paper submission deadline:
-  - ~~January 20th~~ January 27th, 2024, AoE (to be considered for archival on IEEE Xplore).
-  - February 20th, 2024, AoE (non-archival papers).
-- Author notification: Two weeks after each deadline above.
-- Workshop date: April 15th, 2024 from 2:00 PM to 5:30 PM KST (Room AB203).
+-->
 
 ### Contact
 If you have any questions, please contact us at trustworthyspeechproc@gmail.com.
