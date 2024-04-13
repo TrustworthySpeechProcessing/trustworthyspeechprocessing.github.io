@@ -28,12 +28,12 @@ limited to):
 
 <p align="center"> Prof. Jennifer Williams, University of Southampton. </p>
 
-#### Title: When does the next Epoch in Speech Technology Begin?
+##### Title: When does the next epoch in Speech Technology begin?
 
-#### Abstract:
-As a discipline, speech technology is about to meet at the crossroads. Foundational research is becoming more interdisciplinary. The drivers of innovation are creating a melting pot. AI regulation and AI safety is not only popular, but it is now becoming necessary to consider its impacts. For some speech researchers, the culmination of our collective scientific progress may appear to be the most natural progression from a world driven by consumer electronics, the internet, and global connectivity. Yet for others, how we arrived at this point reflects the ebbs and flows of funding body research priorities, shifting paradigms, and trending sociotechnical matters. This talk illuminates key revelations as to how our discipline is changing, explores several parallel revolutions happening within our field, and opens a discussion of how recent global attitudes toward AI safety may impact our technical work while also providing new research opportunities.
+##### Abstract:
+As a discipline, speech technology is about to meet at a crossroads. Foundational research is becoming more interdisciplinary. The drivers of innovation are creating a melting pot. AI regulation and AI safety is not only popular, but it is now becoming necessary to consider its impacts. For some speech researchers, the culmination of our collective scientific progress may appear to be the most natural progression from a world driven by consumer electronics, the Internet, and global connectivity. Yet for others, how we arrived at this point reflects the ebbs and flows of funding body research priorities, shifting paradigms, and trending sociotechnical matters. This talk illuminates key revelations as to how our discipline is changing, explores several parallel revolutions happening within our field, and opens a discussion of how recent global attitudes toward AI safety may impact our technical work while also providing new research opportunities.
 
-#### Bio:
+##### Bio:
 Dr Jennifer Williams is an Assistant Professor at the University of Southampton, where she is PI/Co-PI on several large interdisciplinary projects, including voice anonymisation, deepfake detection, public perceptions of speech technology, speech paralinguistics for medical applications, and AI regulation. She is also the South England Engagement Director and Co-I on the new UK National Edge AI Hub, which is a consortium of 12 universities in the UK. She completed her PhD at the University of Edinburgh on representation learning for speech signal disentanglement, while working part-time in industry on edge-device voice recognition. Before that, she was a technical staff member at MIT Lincoln Laboratory for five years where she developed rapid prototyping solutions human language technology. She is Chair of the ISCA special interest group on Security and Privacy in Speech Communication (SPSC-SIG) and an affiliate member of the NIST-OSAC subcommittee on speaker recognition for forensic science, developing US and ISO standards for speech.
 
 ### Accepted Papers
