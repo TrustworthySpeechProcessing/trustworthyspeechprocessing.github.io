@@ -52,7 +52,7 @@ Following papers were accepted for oral presentation at the workshop (ordered al
   - January 27th, 2024, AoE (to be considered for archival on IEEE Xplore).
   - February 20th, 2024, AoE (non-archival papers).
 - Author notification: Two weeks after each deadline above.
-- Workshop date: April 15th, 2024 from 2:00 PM to 5:30 PM KST (Room AB203).
+- Workshop date: April 15th, 2024 from 2:00 PM to 5:30 PM KST (Room 209A).
 
 ### Organizers
 - Anil Ramakrishna, Amazon Inc.
